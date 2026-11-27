@@ -1,5 +1,7 @@
 # fastapi-db
 
+![Banner: a large key under a red lightning bolt, next to an open padlock and a database stack](docs/banner.png)
+
 An async FastAPI REST API with JWT login, users and items stored in PostgreSQL.
 
 Portfolio: https://suphanut.pages.dev
